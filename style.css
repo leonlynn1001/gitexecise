@@ -17,6 +17,16 @@ section {
   margin: 0 auto;
   
 }
+svg {
+  /* margin-bottom: 20px; */
+  width: 40px;
+  height: 40px;
+  background-color: #f3f3fb;
+  border-radius: 50%;
+  position: relative;
+  left:300px;
+  bottom:12px;
+}
 h1 {
   text-align: center;
   margin-bottom: 20px;
